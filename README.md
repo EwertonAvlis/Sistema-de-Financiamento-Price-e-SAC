@@ -1,9 +1,9 @@
 # Sistema-de-Financiamento-Price-e-SAC
 Programa desenvolvido no Módulo I - Lógica de Programação I - Python
 
-Nesse programa é possível realizar o cadastro de usuário que deseja fazer um financiamento do tipo Price ou SAC. \\
+Nesse programa é possível realizar o cadastro de usuário que deseja fazer um financiamento do tipo Price ou SAC. \n
 
-Tópicos Abordados: \\
+Tópicos Abordados: \n
 
 1 - Simulação de um financiamento do tipo Price ou SAC a partir do valor desejado, taxa de juros ao mês e tempo em meses \\
 2 - Consulta e cadastro de financiamento \\
