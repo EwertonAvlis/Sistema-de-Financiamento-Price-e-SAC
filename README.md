@@ -17,4 +17,4 @@ Tópicos Abordados:
 
 *** Tecnologias 
 
-![(https://icon-library.com/images/python-icon/python-icon-8.jpg)Python](https://www.python.org)
+![(https://www.oxzeon.com/images/img_python_logo_black_wide.svg)Python](https://www.python.org)
