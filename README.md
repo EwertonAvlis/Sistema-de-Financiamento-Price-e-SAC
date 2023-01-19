@@ -17,5 +17,6 @@ Tópicos Abordados:
 
 ### Tecnologias 
 
-[![](https://skillicons.dev/icons?i=python)python](https://www.python.org/)
+[![python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/)
 
