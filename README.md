@@ -17,4 +17,4 @@ Tópicos Abordados:
 
 ### Tecnologias 
 
-![python](https://www.python.org)
+![python](https://www.python.org/)
