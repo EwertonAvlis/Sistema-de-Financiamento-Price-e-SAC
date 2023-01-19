@@ -17,4 +17,4 @@ Tópicos Abordados:
 
 *** Tecnologias 
 
-![(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHyFlMqIPAd2wuyofYt40NWZ9duDjFwbqJw&usqp=CAU)Python](https://www.python.org)
+![(https://icon-library.com/images/python-icon/python-icon-8.jpg)Python](https://www.python.org)
