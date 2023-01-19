@@ -17,4 +17,4 @@ Tópicos Abordados:
 
 *** Tecnologias 
 
-![(https://image.pngaaa.com/282/619282-middle.png)Python](https://www.python.org)
+![](https://image.pngaaa.com/282/619282-middle.png)[python](https://www.python.org)
