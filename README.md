@@ -15,4 +15,6 @@ Tópicos Abordados:
 
 5 - Opção de pagamentos Extraordinário: Há a opção de redução da parcela paga ou do tempo do finannciamento. Com atualização do financiamento e das parcelas/prazos para cada usuário cadastrado. Tanto para o tipo Price quanto para o sistema SAC
 
+*** Tecnologias 
 
+![(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHyFlMqIPAd2wuyofYt40NWZ9duDjFwbqJw&usqp=CAU)Python](https://www.python.org)
